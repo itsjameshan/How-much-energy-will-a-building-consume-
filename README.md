@@ -4,3 +4,4 @@ Assessing the value of energy efficiency improvements can be challenging as ther
 
 Build these counterfactual models across four energy types based on historic usage rates and observed weather. The dataset includes three years of hourly meter readings from over one thousand buildings at several different sites around the world.
 
+The script used EDA and LightGBM with Optuna, and RNN to compare and to find the best fit.
